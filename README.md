@@ -1,8 +1,6 @@
 # E-commerce App with Flutter and Firebase
 ![image](https://github.com/vbhvshukla/ecommerce/assets/51282485/72fa72b0-2b7e-4326-bd34-6e74c981088f)
 ![image](https://github.com/vbhvshukla/ecommerce/assets/51282485/c33c9499-0a5c-44ea-a12c-459e72a080bb)
-![resized](https://github.com/vbhvshukla/ecommerce/assets/51282485/c87dd2f6-a56c-4797-8d26-d3da15d8cf92) 
-
 
 ## Table of Contents
 - [Overview](#overview)
