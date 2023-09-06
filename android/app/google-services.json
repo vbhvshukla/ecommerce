@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978308237031",
+    "project_id": "ecomm-1d54d",
+    "storage_bucket": "ecomm-1d54d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978308237031:android:bb18702b791e08c7f5c442",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978308237031-6u0r3t7b8260ujg4qe7gndlla2vl6o28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom",
+            "certificate_hash": "c734b527667efa472b1f738f05c4ebba2ac6765d"
+          }
+        },
+        {
+          "client_id": "978308237031-t33dfijkjnbmcpbo4cts9lptbib0fv0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aMLH-KsEsy30B0nB1GCrUiOQ5W1fqOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978308237031-t33dfijkjnbmcpbo4cts9lptbib0fv0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
